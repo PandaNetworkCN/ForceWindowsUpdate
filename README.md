@@ -1,4 +1,4 @@
-# ForceWindowsUpdate
+# ForceWindowsUpdate  强制Windows更新
 
 What's this script doing. 
 
